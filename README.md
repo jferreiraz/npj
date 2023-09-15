@@ -17,3 +17,19 @@ Com o comando 'flutter run -d chrome' você irá iniciar uma página do chrome c
 > _Clique no link abaixo para acessar o site oficial_ <br>
 
 ## _https://gprojuridico.web.app/#/_
+
+
+
+
+
+---------------------
+
+PC da fábrica:
+
+Copiar arquivos do projeto e colar na pasta flutter/bin <br>
+_Deverá ser os arquivos da pasta_<br><br>
+
+*o flutter deve estar atualizado<br>
+rode: dart pub cache repair<br>
+rode: gpupdate<br>
+
