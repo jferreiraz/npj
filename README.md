@@ -32,4 +32,6 @@ _Deverá ser os arquivos da pasta_<br><br>
 *o flutter deve estar atualizado<br>
 rode: dart pub cache repair<br>
 rode: gpupdate<br>
+<br><br>
+_certifique-se de executar o flutter run na pasta bin_
 
